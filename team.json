@@ -1,6 +1,6 @@
 {
-  "updatedAt": null,
-  "serverName": "Blut & Staub RP",
+  "updatedAt": "2026-07-12T14:42:06.276Z",
+  "serverName": "Blut & Staub (im Aufbau)",
   "teamNames": {
     "highteam": "High Team",
     "midteam": "Mid Team",
@@ -11,5 +11,36 @@
     "midteam": "img/team/midteam.png",
     "lightteam": "img/team/lightteam.png"
   },
-  "members": []
+  "members": [
+    {
+      "id": "650662833071194161",
+      "name": "B&S | Jack Carter",
+      "rank": "Projektinhaber",
+      "team": "highteam",
+      "teamName": "High Team",
+      "teamLogo": "img/team/highteam.png",
+      "since": "12.07.2026",
+      "priority": 1
+    },
+    {
+      "id": "637590993142546453",
+      "name": "Michael Tanner",
+      "rank": "Projektleitung",
+      "team": "highteam",
+      "teamName": "High Team",
+      "teamLogo": "img/team/highteam.png",
+      "since": "12.07.2026",
+      "priority": 2
+    },
+    {
+      "id": "873445599343702047",
+      "name": "B3N",
+      "rank": "Teamleitung",
+      "team": "highteam",
+      "teamName": "High Team",
+      "teamLogo": "img/team/highteam.png",
+      "since": "12.07.2026",
+      "priority": 4
+    }
+  ]
 }
