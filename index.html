@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Teamliste – Blut & Staub</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<div id="top"></div>
+
+<header class="hero">
+    <div class="overlay"></div>
+
+    <div class="hero-content">
+        <img src="img/logo.png" class="logo" alt="Blut & Staub Logo">
+
+        <h1>👥 Teamliste</h1>
+        <h2>Blut & Staub RP</h2>
+
+        <p>Unser offizielles Server-Team</p>
+
+        <a href="#team" class="start-btn">👥 Team ansehen</a>
+    </div>
+</header>
+
+<nav>
+    <div class="nav-container">
+        <div class="server-name">Blut & Staub RP</div>
+
+        <ul>
+            <li><a href="#highteam">High Team</a></li>
+            <li><a href="#midteam">Mid Team</a></li>
+            <li><a href="#lightteam">Light Team</a></li>
+        </ul>
+    </div>
+</nav>
+
+<section class="search-section">
+    <input type="text" id="search" placeholder="Nach Name oder Teamrang suchen...">
+</section>
+
+<main id="team">
+    <div id="status" class="status-box">Teamliste wird geladen …</div>
+
+    <section class="team-group high-group" id="highteam" data-team="highteam">
+        <div class="group-heading">
+            <img src="img/team/highteam.png" alt="High Team Logo">
+            <div>
+                <span class="group-label">Leitungsebene</span>
+                <h2>High Team</h2>
+            </div>
+        </div>
+        <div class="team-grid"></div>
+    </section>
+
+    <section class="team-group mid-group" id="midteam" data-team="midteam">
+        <div class="group-heading">
+            <img src="img/team/midteam.png" alt="Mid Team Logo">
+            <div>
+                <span class="group-label">Entwicklung und Administration</span>
+                <h2>Mid Team</h2>
+            </div>
+        </div>
+        <div class="team-grid"></div>
+    </section>
+
+    <section class="team-group light-group" id="lightteam" data-team="lightteam">
+        <div class="group-heading">
+            <img src="img/team/lightteam.png" alt="Light Team Logo">
+            <div>
+                <span class="group-label">Moderation und Support</span>
+                <h2>Light Team</h2>
+            </div>
+        </div>
+        <div class="team-grid"></div>
+    </section>
+
+    <div id="noResults" class="no-results">
+        Keine Teammitglieder gefunden.
+    </div>
+</main>
+
+<a href="#top" class="top-btn" aria-label="Nach oben">↑</a>
+
+<footer>
+    <p>© Blut & Staub RP – Offizielle Teamliste</p>
+    <p id="lastUpdated" class="last-updated"></p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>
