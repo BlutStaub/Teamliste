@@ -1,0 +1,15 @@
+{
+  "updatedAt": null,
+  "serverName": "Blut & Staub RP",
+  "teamNames": {
+    "highteam": "High Team",
+    "midteam": "Mid Team",
+    "lightteam": "Light Team"
+  },
+  "teamLogos": {
+    "highteam": "img/team/highteam.png",
+    "midteam": "img/team/midteam.png",
+    "lightteam": "img/team/lightteam.png"
+  },
+  "members": []
+}
