@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T14:47:33.421Z",
+  "updatedAt": "2026-07-12T14:49:02.586Z",
   "serverName": "Blut & Staub (im Aufbau)",
   "teamNames": {
     "highteam": "High Team",
@@ -41,16 +41,6 @@
       "teamLogo": "img/team/highteam.png",
       "since": "02.07.2026",
       "priority": 4
-    },
-    {
-      "id": "1433420539313262727",
-      "name": "Killer",
-      "rank": "Supporter",
-      "team": "lightteam",
-      "teamName": "Light Team",
-      "teamLogo": "img/team/lightteam.png",
-      "since": "12.07.2026",
-      "priority": 11
     }
   ]
 }
