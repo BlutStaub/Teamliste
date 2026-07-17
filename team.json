@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T21:44:50.657Z",
+  "updatedAt": "2026-07-17T21:46:08.381Z",
   "serverName": "Blut & Staub (im Aufbau) Eröffnung ca.Oct - Nov",
   "teamNames": {
     "highteam": "High Team",
@@ -31,16 +31,6 @@
       "teamLogo": "img/team/highteam.png",
       "since": "28.06.2026",
       "priority": 2
-    },
-    {
-      "id": "1433420539313262727",
-      "name": "Killer",
-      "rank": "Stellvertretende Projektleitung",
-      "team": "highteam",
-      "teamName": "High Team",
-      "teamLogo": "img/team/highteam.png",
-      "since": "12.07.2026",
-      "priority": 3
     },
     {
       "id": "873445599343702047",
