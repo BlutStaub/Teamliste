@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T21:40:30.951Z",
+  "updatedAt": "2026-07-17T21:40:36.989Z",
   "serverName": "Blut & Staub (im Aufbau) Eröffnung ca.Oct - Nov",
   "teamNames": {
     "highteam": "High Team",
@@ -45,12 +45,12 @@
     {
       "id": "1433420539313262727",
       "name": "Killer",
-      "rank": "Stellvertretende Teamleitung",
+      "rank": "Teamleitung",
       "team": "highteam",
       "teamName": "High Team",
       "teamLogo": "img/team/highteam.png",
       "since": "12.07.2026",
-      "priority": 5
+      "priority": 4
     }
   ]
 }
