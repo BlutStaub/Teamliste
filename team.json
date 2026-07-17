@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T21:37:27.356Z",
+  "updatedAt": "2026-07-17T21:37:32.606Z",
   "serverName": "Blut & Staub (im Aufbau) Eröffnung ca.Oct - Nov",
   "teamNames": {
     "highteam": "High Team",
@@ -33,6 +33,16 @@
       "priority": 2
     },
     {
+      "id": "1433420539313262727",
+      "name": "Killer",
+      "rank": "Stellvertretende Projektleitung",
+      "team": "highteam",
+      "teamName": "High Team",
+      "teamLogo": "img/team/highteam.png",
+      "since": "12.07.2026",
+      "priority": 3
+    },
+    {
       "id": "873445599343702047",
       "name": "B&S | B3N",
       "rank": "Teamleitung",
@@ -40,16 +50,6 @@
       "teamName": "High Team",
       "teamLogo": "img/team/highteam.png",
       "since": "02.07.2026",
-      "priority": 4
-    },
-    {
-      "id": "1433420539313262727",
-      "name": "Killer",
-      "rank": "Teamleitung",
-      "team": "highteam",
-      "teamName": "High Team",
-      "teamLogo": "img/team/highteam.png",
-      "since": "12.07.2026",
       "priority": 4
     }
   ]
