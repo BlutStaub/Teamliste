@@ -1,1 +1,58 @@
-
+{
+  "success": true,
+  "server": {
+    "id": "1477038275850928344",
+    "name": "Blut & Staub (im Aufbau) Eröffnung ca.Oct - Nov",
+    "icon": "https://cdn.discordapp.com/icons/1477038275850928344/b4fc5da17a8c9ecbff5a8461c547aeea.png?size=256"
+  },
+  "statistics": {
+    "total": 3,
+    "online": 0,
+    "idle": 0,
+    "dnd": 0,
+    "offline": 3
+  },
+  "members": [
+    {
+      "id": "650662833071194161",
+      "name": "B&S | Jack Carter",
+      "username": "xxdarkkilleronexx",
+      "avatar": "https://cdn.discordapp.com/guilds/1477038275850928344/users/650662833071194161/avatars/9fd14200b606cbda50702b1e4f948f61.png?size=256",
+      "role": {
+        "id": "1477038276354248715",
+        "name": "Projektinhaber",
+        "order": 0
+      },
+      "status": "offline",
+      "statusText": "Offline"
+    },
+    {
+      "id": "637590993142546453",
+      "name": "B&S | Micheal Tanner",
+      "username": "xfoot12",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "role": {
+        "id": "1477038276354248714",
+        "name": "Projektleitung",
+        "order": 1
+      },
+      "status": "offline",
+      "statusText": "Offline"
+    },
+    {
+      "id": "873445599343702047",
+      "name": "B&S | B3N",
+      "username": "firebenni",
+      "avatar": "https://cdn.discordapp.com/avatars/873445599343702047/c469e3cf556cdb3d8a9baeff4c29f40b.png?size=256",
+      "role": {
+        "id": "1477038276329078803",
+        "name": "Teamleitung",
+        "order": 3
+      },
+      "status": "offline",
+      "statusText": "Offline"
+    }
+  ],
+  "updatedAt": "2026-07-18T17:05:53.036Z",
+  "updatedTimestamp": 1784394353036
+}
