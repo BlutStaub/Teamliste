@@ -1,9 +1,38 @@
 {
   "type": "changelog",
   "channelId": "1477038276786389020",
-  "updatedAt": "2026-07-18T17:17:25.056Z",
-  "count": 1,
+  "updatedAt": "2026-07-18T17:19:15.607Z",
+  "count": 2,
   "messages": [
+    {
+      "id": "1528088771726278759",
+      "channelId": "1477038276786389020",
+      "author": {
+        "id": "1520856608324845709",
+        "name": "Blut & Staub  |  System",
+        "username": "Blut & Staub  |  System",
+        "avatar": "https://cdn.discordapp.com/avatars/1520856608324845709/af7e3fd863689d7773d64b5644d78b54.png?size=256",
+        "bot": true
+      },
+      "content": "",
+      "createdAt": "2026-07-18T17:19:13.696Z",
+      "editedAt": null,
+      "url": "https://discord.com/channels/1477038275850928344/1477038276786389020/1528088771726278759",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "📜 Changelog",
+          "description": "📅 **18.7.2026**\n\n    ━━━━━━━━━━━━━━━━\n\n    - AFK System /afk grund um Afk zu gehen /afk um aus dem AFK Modus zugehen\n\n    ━━━━━━━━━━━━━━━━",
+          "url": null,
+          "color": 3447003,
+          "timestamp": "2026-07-18T17:19:13.660000+00:00",
+          "image": null,
+          "thumbnail": null,
+          "footer": "Blut & Staub RP",
+          "fields": []
+        }
+      ]
+    },
     {
       "id": "1525449192074379336",
       "channelId": "1477038276786389020",
