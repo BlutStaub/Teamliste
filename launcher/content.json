@@ -1,6 +1,6 @@
 {
   "project": "Blut & Staub RP",
-  "updatedAt": "2026-07-18T13:14:04.894Z",
+  "updatedAt": "2026-07-18T13:14:26.909Z",
   "sources": {
     "newsChannelId": "1477038276786389017",
     "changelogChannelId": "1477038276786389020",
@@ -9,6 +9,23 @@
     "streamingRulesUrl": "https://blutstaub.github.io/Streaming/"
   },
   "news": [
+    {
+      "id": "1528027163083669547",
+      "channelId": "1477038276786389017",
+      "author": {
+        "id": "650662833071194161",
+        "name": "B&S | Jack Carter",
+        "username": "xxdarkkilleronexx",
+        "avatar": "https://cdn.discordapp.com/avatars/650662833071194161/793e8f3657a85b05cab9dfb186492570.png?size=256",
+        "bot": false
+      },
+      "content": ".",
+      "createdAt": "2026-07-18T13:14:25.051Z",
+      "editedAt": null,
+      "url": "https://discord.com/channels/1477038275850928344/1477038276786389017/1528027163083669547",
+      "attachments": [],
+      "embeds": []
+    },
     {
       "id": "1525939132541702275",
       "channelId": "1477038276786389017",
