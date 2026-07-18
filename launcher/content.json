@@ -1,0 +1,71 @@
+{
+  "project": "Blut & Staub RP",
+  "updatedAt": "2026-07-18T12:20:55.435Z",
+  "sources": {
+    "newsChannelId": "1477038276786389017",
+    "changelogChannelId": "1477038276786389020",
+    "teamUrl": "https://blutstaub.github.io/Teamliste/",
+    "rulesUrl": "https://blutstaub.github.io/Regelwerk/",
+    "streamingRulesUrl": "https://blutstaub.github.io/Streaming/"
+  },
+  "news": [
+    {
+      "id": "1525939132541702275",
+      "channelId": "1477038276786389017",
+      "author": {
+        "id": "1520856608324845709",
+        "name": "Blut & Staub  |  System",
+        "username": "Blut & Staub  |  System",
+        "avatar": "https://cdn.discordapp.com/avatars/1520856608324845709/af7e3fd863689d7773d64b5644d78b54.webp?size=256",
+        "bot": true
+      },
+      "content": "",
+      "createdAt": "2026-07-12T18:57:19.776Z",
+      "editedAt": null,
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "📢 Ankündigung",
+          "description": "📅 **12.7.2026**\n\n    ━━━━━━━━━━━━━━━━\n\n    # 🤠 **Serverankündigung – Blut & Staub RP**\n\nHallo zusammen!\n\nDie Entwicklung von **Blut & Staub RP** schreitet mit großen Schritten voran. Unser gesamtes Team arbeitet mit Hochdruck daran, euch ein hochwertiges **Midcore-Roleplay-Erlebnis im Wilden Westen** zu bieten.\n\n## 🌵 Geplanter Beta-Start\n\n📅 **Oktober – November**\n\n## 🔥 Das erwartet euch in der Beta\n\n> 🤠 Erste spielbare Inhalte und Systeme\n> 🐎 Umfangreiche Tests aller Features\n> 🛠️ Laufende Fehlerbehebungen und Optimierungen\n> 💬 Eure Vorschläge und euer Feedback fließen direkt in die Weiterentwicklung ein\n\n## ⚠️ Hinweis\n\nDa es sich um eine **Beta-Version** handelt, können Fehler, Änderungen oder kurzfristige Wartungsarbeiten auftreten. Wir bitten euch deshalb um Verständnis und freuen uns über jedes konstruktive Feedback.\n\n## ❤️ Danke!\n\nVielen Dank für eure Unterstützung und eure Geduld. Gemeinsam mit euch möchten wir **Blut & Staub RP** zu einem einzigartigen Roleplay-Server entwickeln.\n\n**Wir freuen uns darauf, euch schon bald im Wilden Westen begrüßen zu dürfen!** 🤠\n\n**– Euer Blut & Staub Team**\n\n    ━━━━━━━━━━━━━━━━",
+          "url": null,
+          "color": 15548997,
+          "timestamp": "2026-07-12T18:57:19.656000+00:00",
+          "image": null,
+          "thumbnail": null,
+          "footer": "Blut & Staub RP",
+          "fields": []
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "id": "1525449192074379336",
+      "channelId": "1477038276786389020",
+      "author": {
+        "id": "1520856608324845709",
+        "name": "Blut & Staub  |  System",
+        "username": "Blut & Staub  |  System",
+        "avatar": "https://cdn.discordapp.com/avatars/1520856608324845709/af7e3fd863689d7773d64b5644d78b54.webp?size=256",
+        "bot": true
+      },
+      "content": "",
+      "createdAt": "2026-07-11T10:30:28.866Z",
+      "editedAt": null,
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "📜 Changelog",
+          "description": "📅 **11.7.2026**\n\n    ━━━━━━━━━━━━━━━━\n\n    - Discord Bot neue Funktionen hinzugefügt \n\n- /wunsch könnt ihr eure wünsche einreichen   der Chat von dem ihr das macht ist egal. \n\n- /Feedback könnt ihr eure ehrliche Meinung einreichen   mit einer Sterne Bewertung von 0 bis 5 Sterne möglich\n\n    ━━━━━━━━━━━━━━━━",
+          "url": null,
+          "color": 3447003,
+          "timestamp": "2026-07-11T10:30:28.750000+00:00",
+          "image": null,
+          "thumbnail": null,
+          "footer": "Blut & Staub RP",
+          "fields": []
+        }
+      ]
+    }
+  ]
+}
