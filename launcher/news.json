@@ -1,26 +1,9 @@
 {
   "type": "news",
   "channelId": "1477038276786389017",
-  "updatedAt": "2026-07-18T16:36:22.612Z",
-  "count": 2,
+  "updatedAt": "2026-07-18T16:36:42.031Z",
+  "count": 1,
   "messages": [
-    {
-      "id": "1528032351576129749",
-      "channelId": "1477038276786389017",
-      "author": {
-        "id": "650662833071194161",
-        "name": "B&S | Jack Carter",
-        "username": "xxdarkkilleronexx",
-        "avatar": "https://cdn.discordapp.com/avatars/650662833071194161/793e8f3657a85b05cab9dfb186492570.png?size=256",
-        "bot": false
-      },
-      "content": ".",
-      "createdAt": "2026-07-18T13:35:02.084Z",
-      "editedAt": null,
-      "url": "https://discord.com/channels/1477038275850928344/1477038276786389017/1528032351576129749",
-      "attachments": [],
-      "embeds": []
-    },
     {
       "id": "1525939132541702275",
       "channelId": "1477038276786389017",
